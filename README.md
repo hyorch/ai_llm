@@ -1,2 +1,2 @@
-# ia_llm
+# AI and LLM
 Python code for IA and LLM
