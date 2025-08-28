@@ -1,11 +1,19 @@
 # AI and LLM
 Python code for IA and LLM
 
+## Pytorch Install
+
+https://pytorch.org/get-started/locally/
+
+```bash
+pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu
+```
+
 ## Venv & Requirements
 
 ```bash
 python -m venv .venv
-pip3 install -r requirements
+pip install -r requirements
 ```
 
 
