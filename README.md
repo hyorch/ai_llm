@@ -15,6 +15,7 @@ pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 python3 -m venv .venv
 source .venv/bin/activate
 
+# CUDA
 pip install -r requirements
 ```
 
