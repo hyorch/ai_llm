@@ -12,7 +12,9 @@ pip3 install torch torchvision --index-url https://download.pytorch.org/whl/cpu
 ## Venv & Requirements
 
 ```bash
-python -m venv .venv
+python3 -m venv .venv
+source .venv/bin/activate
+
 pip install -r requirements
 ```
 
