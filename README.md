@@ -1,6 +1,8 @@
 # AI and LLM
 Python code for IA and LLM
 
+https://github.com/rasbt/LLMs-from-scratch
+
 ## Pytorch Install
 
 https://pytorch.org/get-started/locally/
